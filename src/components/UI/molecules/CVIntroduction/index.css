@@ -1,0 +1,17 @@
+.intro-p {
+  font-size: 14px;
+  font-weight: 300;
+  font-family: monospace;
+}
+.section-1 h1 {
+  font-weight: 700;
+  /*font-size: 70px;*/
+  line-height: 1.15em;
+}
+.section-1 h2 {
+  font-weight: 500;
+  /*font-size: 60px;*/
+}
+.section-1 .description {
+  margin-top: 35px;
+}

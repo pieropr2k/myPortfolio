@@ -1,0 +1,126 @@
+{
+  "navbar": {
+    "language": "Español",
+    "about": "Info",
+    "service": "Servicio",
+    "exp": "Experiencia",
+    "projects": "Proyectos",
+    "skills": "Habilidades"
+  },
+  "header": {
+    "habla": "hello"
+  },
+  "intro": {
+    "myname": "Hola, mi nombre es:",
+    "subtitle": "Creo cosas geniales en la web.",
+    "description": "Soy un ingeniero de software que reside en Lima, Peru de la Universidad Nacional de Ingenieria - Lima que sabe demasiado sobre matemática y es capaz de contactarse con personas de habla inglesa",
+    "button": "Ponte en contacto"
+  },
+  "about": {
+    "title": "Sobre mi",
+    "description1": "Hola! Soy Piero, un desarrollador de software que disfruta construir proyectos. Actualmente estoy aprendiendo sobre Machine Learning tambien. Soy una persona disciplinada y responsable.",
+    "description2": "Estas son algunas tecnologías con las que yo he trabajado recientemente:"
+  },
+  "services": {
+    "title": "Servicios",
+    "description": "Estos son algunos intereses y cosas que me encantan:",
+    "services": [
+      {
+        "title": "Matemática",
+        "description": "Soy una persona que tiene una alta capacidad lógica y me gustan las matemáticas: cómo funcionan o cómo se pueden aplicar, y disfruto resolviendo problemas matemáticos, incluso más si los problemas son los de mayor dificultad."
+      },
+      {
+        "title": "Programación",
+        "description": "La programación tiene mucho potencial, y por el momento me interesan los temas de Data Science y el desarrollo de Blockchain."
+      },
+      {
+        "title": "Finanzas",
+        "description": "Si eres una fintech, bueno honestamente quiero aplicar todo mi conocimiento a un proyecto relacionado con las finanzas en este momento."
+      },
+      {
+        "title": "Inglés",
+        "description": "Si eres de un país de habla inglesa, no hay problema. Soy capaz de tener conversaciones con personas de habla inglesa."
+      },
+      {
+        "title": "Diseño",
+        "description": "Hago bonitas paginas que brinden una experiencia comoda al cliente."
+      },
+      {
+        "title": "Pedagogía",
+        "description": "Soy capaz de orientar a las personas para que comprendan un tema complejo y lo dominen. En caso tienes dudas puedes preguntarme sin problemas y tus dudas seran resueltas. Pregúntame con confianza."
+      }
+    ]
+  },
+  "exp": {
+    "title": "Experiencia",
+    "description1": "Esta es mi experiencia laboral:",
+    "exp": [
+      {
+        "experienceYear": "2022",
+        "experienceTitle": "Call Center",
+        "experienceDescription": [
+          "He estado trabajando en atencion al cliente."
+        ]
+      },
+      {
+        "experienceYear": "2021",
+        "experienceTitle": "Pintar Casas",
+        "experienceDescription": [
+          "He pintado las paredes del pasadiso de los inquilinos."
+        ]
+      },
+      {
+        "experienceYear": "2020",
+        "experienceTitle": "Pintar Casas",
+        "experienceDescription": [
+          "He pintado el baño de la casa y algunos cuartos de los futuros inquilinos."
+        ]
+      },
+      {
+        "experienceYear": "2017",
+        "experienceTitle": "Venta de Rifas",
+        "experienceDescription": [
+          "Vendí rifas en la calle",
+          "Vendí 7 rifas cada dia",
+          "Gané 40 soles (13 dolares) en un dia como máximo"
+        ]
+      },
+      {
+        "experienceYear": "2014",
+        "experienceTitle": "Venta de Rifas",
+        "experienceDescription": [
+          "Vendí rifas en los condominios",
+          "Vendí 13 rifas cada dia",
+          "Gané 50 soles (17 dolares) en un dia como máximo"
+        ]
+      }
+    ],
+    "description2": "Si quieres ver mi CV, solo has clic aquí en el boton de abajo:",
+    "button": "Descargar CV",
+    "CV_EN": false
+  },
+  "projects": {
+    "title": "Proyectos",
+    "tech": "Tecnologías:",
+    "description1": "Estos son algunos de mis mejores proyectos.",
+    "description2": "Si quieres ver más proyectos, solo haz clic en el botón de abajo",
+    "button": "Más proyectos",
+    "projectsLevelsTitle": ["Básico", "Medio", "Difícil"],
+    "projectsLevelsDescription": ["Un proyecto lo considero básico generalmente cuando son simples páginas estaticas o proyectos que usan poca lógica.", "Un proyecto lo considero intermedio cuando ya se comienza a emplear una lógica mas robusta o comienza a usar backend o logins.", "Un proyecto lo considero avanzado cuando este demora mas de una semana, puede incluir testing, emplea una algoritmia algo compleja, y tiene bastantes funcionalidades."]
+  },
+  "skills": {
+    "title": "Habilidades",
+    "description": "Actualmente estoy mejorando mi portfolio y mis habilidades de programación. Estoy interesado en trabajar como Data Scientist a futuro y actualmente estoy aprendiendo Machine Learning. Estas son algunas habilidades que tengo:",
+    "front": "Estuve trabajando 2 años con estas tecnologías. Puedo hacer aplicaciones web responsivas hermosas y funcionales",
+    "back": "Estuve trabajando con estos durante menos de 1 año. Soy bueno en las consultas SQL",
+    "extra": "Hay algunas tecnologías con las que he estado trabajando, estas son para las áreas de Blockchain y Machile Learning, y también C++, que fue mi primer lenguaje de programación."
+  },
+  "contact": {
+    "title": "Contacto",
+    "description": "Hoy en día estoy abierto a todos ustedes. Si necesita un servicio freelance también estoy disponible, mi bandeja de entrada está abierta y puedo responder rápidamente. Solo haz clic en el botón de abajo para contactarme",
+    "button": "Contáctame"
+  },
+  "footer": {
+    "title": "Saludos desde Perú"
+  }
+}

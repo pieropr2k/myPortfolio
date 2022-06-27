@@ -1,0 +1,10 @@
+.line-title {
+  width: 100px;
+  height: 4px;
+  margin-left: 17px;
+  align-self: center;
+}
+.title-section span {
+  font-family: monospace;
+  font-size: 14px;
+}

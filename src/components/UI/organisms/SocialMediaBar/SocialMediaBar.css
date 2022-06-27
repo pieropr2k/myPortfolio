@@ -1,0 +1,14 @@
+.container-icons .line {
+  width: 2.5px;
+  height: 172px;
+  margin-top: 10px;
+}
+/*.section-bg{
+  padding-left: 20px;
+  padding: 40px 0px;
+}*/
+.container-icons{
+  z-index: 10;
+  margin-top: 215px;
+  align-items: center;
+}

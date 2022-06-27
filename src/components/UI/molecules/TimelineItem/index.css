@@ -1,0 +1,38 @@
+.timeline-dot{
+	height: 16px;
+	width: 16px;
+	position: absolute;
+	left: calc(50% - 8px);
+	border-radius: 50%;
+	top:10px;
+}
+.timeline-date{
+	font-size: 18px;
+	margin:6px 0 15px;
+}
+.timeline-content{
+  background-color: #2f363e;
+	padding: 17px 30px;
+	padding-top: 27px;
+	border-radius: 5px;
+}
+.timeline-content h3{
+    font-size: 20px;
+	color: #ffffff;
+	margin:0 0 10px;
+	text-transform: capitalize;
+	font-weight: 500;
+}
+.timeline-content p{
+    color: #c8c8c8;
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 22px;
+}
+
+/* responsive */
+@media(max-width: 767px){
+	.timeline-dot{
+		left:0;
+	}
+}

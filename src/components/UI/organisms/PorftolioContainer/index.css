@@ -1,0 +1,22 @@
+.container-about p{
+  margin-bottom: 1rem;
+}
+
+.about-me-list{
+  font-family: monospace;
+  list-style: square inside;
+}
+.mine_img {
+  /*
+  width: 270px;
+  height: 270px;*/
+  width: 16rem;
+  height: 16rem;
+  border-radius: 50%;
+  border-width: 5px;/*
+  border: 5px solid rgb(248, 248, 248);*/
+  background-image: url('../../../../../public/assets/foto_porfolio.jpg');
+  background-position: 0px 10%;
+  background-size: cover;
+  overflow: hidden;
+}
