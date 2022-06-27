@@ -9,7 +9,7 @@ const ProyectCard = ({ title, imgURL = '../../../../../build/assets/foto_porfoli
       <div className="card__layer bg-sky-500">
       </div>
       <div className="card__content">
-        <div className="card__details px-1 xl:mx-32 md:mx-20 bg-sky-500">
+        <div className="card__details pt-1 px-1 xl:mx-32 md:mx-20 bg-sky-500">
           <h2>
             <code className=''>{`<${title}/>`}</code>
           </h2>
