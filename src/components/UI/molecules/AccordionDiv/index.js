@@ -6,7 +6,7 @@ import './index.css';
 const AccordionDiv = ({ accordionElementNames, projectsArray, projectLevelsDescription, isProyects = false }) => {
   const [t] = useTranslation('global');
   return (
-    <div id="accordion-color" data-accordion="collapse" className={"mt-4 " + (isProyects ? "mx-[-0.85rem] xsm-normal" : "")} data-active-classes="bg-blue-100 dark:bg-gray-800 text-blue-600 dark:text-white">
+    <div id="accordion-color" data-accordion="collapse" className={"mt-4 " + (isProyects ? "mx-[-0.85rem] xsm:hidden" : "")} data-active-classes="bg-blue-100 dark:bg-gray-800 text-blue-600 dark:text-white">
       <AccordionElement isProyects={isProyects} title={isProyects ? accordionElementNames[0] : 'Frontend'} index={1}>
         <p className="mb-2">{isProyects ? projectLevelsDescription[0] : t('skills.front')}</p>
         {

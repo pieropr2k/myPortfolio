@@ -29,14 +29,18 @@ const data = {
     ],
     [
       {
-        "title": "CEPRE UNI NOTES SIMULATOR",
+        "title": "MERN PHONEBOOK",
         "projectUrl": [
-          "https://github.com/pieropr2k/proyectPOOJava"
+          "https://github.com/pieropr2k/fullstackopen-part3",
+          "https://boiling-meadow-40148.herokuapp.com/"
         ],
-        "imgUrl": "https://i.imgur.com/DewNS84.jpg",
-        "isDeployed": false,
+        "imgUrl": "https://i.imgur.com/sLulJwr.jpg",
+        "isDeployed": true,
         "tools": [
-          "Java"
+          "React JS",
+          "NodeJS",
+          "Express",
+          "Mongoose"        
         ]
       }
     ],
@@ -56,18 +60,14 @@ const data = {
         ]
       },
       {
-        "title": "MERN PHONEBOOK",
+        "title": "CEPRE UNI NOTES SIMULATOR",
         "projectUrl": [
-          "https://github.com/pieropr2k/fullstackopen-part3",
-          "https://boiling-meadow-40148.herokuapp.com/"
+          "https://github.com/pieropr2k/proyectPOOJava"
         ],
-        "imgUrl": "https://i.imgur.com/sLulJwr.jpg",
-        "isDeployed": true,
+        "imgUrl": "https://i.imgur.com/DewNS84.jpg",
+        "isDeployed": false,
         "tools": [
-          "React JS",
-          "NodeJS",
-          "Express",
-          "Mongoose"        
+          "Java"
         ]
       }
     ]

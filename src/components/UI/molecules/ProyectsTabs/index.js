@@ -10,7 +10,7 @@ const ProyectsTabs = ({projectsArray, accordionElementNames, accordionElementDes
   };
 
   return (
-    <div className="tabs-container border border-gray-400 dark:text-white dark:border-gray-700 mt-5 xsm-phone">
+    <div className="tabs-container border border-gray-400 dark:text-white dark:border-gray-700 mt-5 hidden xsm:flex">
       <div className="bloc-tabs">
         <button
           className={'border-r border-gray-400 ' + (toggleState === 1 ? "tabs active-tabs dark:bg-gray-600" : "tabs dark:border-gray-700")}

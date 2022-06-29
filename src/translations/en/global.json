@@ -47,7 +47,7 @@
       },
       {
         "title": "Teaching",
-        "description": "I am able to guide people to understand a complex subject and master it. Even in case you have doubts you can ask me without problems and your doubts will be resolved. Ask me with confidence"
+        "description": "I am able to guide people to understand a complex subject and master it. Even in case you have doubts you can ask me without problems and your doubts will be resolved. Ask me with confidence."
       }
     ]
   },
@@ -80,18 +80,18 @@
         "experienceYear": "2017",
         "experienceTitle": "Raffles Sales",
         "experienceDescription": [
-          "I sold Raffles on the street",
-          "I sold 7 raffles each day",
-          "I earned 40 soles (13 usd) at most in one day"
+          "I sold Raffles on the street.",
+          "I sold 7 raffles each day.",
+          "I earned 40 soles (13 usd) at most in one day."
         ]
       },
       {
         "experienceYear": "2014",
         "experienceTitle": "Raffles Sales",
         "experienceDescription": [
-          "I sold in the condominiums",
-          "I sold 13 raffles each day",
-          "I earned 50 soles (17 usd) at most in one day"
+          "I sold in the condominiums.",
+          "I sold 13 raffles each day.",
+          "I earned 50 soles (17 usd) at most in one day."
         ]
       }
     ],
@@ -106,68 +106,14 @@
     "description2": "If you wanna see more projects, only click at the button below",
     "button": "Download CV",
     "projectsLevelsTitle": ["Basic", "Medium", "Hard"],
-    "projectsLevelsDescription": ["I consider a project basic generally when they are simple static pages or projects that use slow logic.", "I consider a project intermediate when it starts using more robust logic or using backend or logins.", "I consider a project advanced when it takes more than a week, it can include testing, starts using complex algorithms, and is very functional."],
-    "proyects": [
-      [
-        {
-          "title": "DAPP TASK APP",
-          "projectUrl": [
-            "https://github.com/pieropr2k/descentralized-to-do-List"
-          ],
-          "isDeployed": false,
-          "tools": [
-            "Javascript",
-            "Solidity",
-            "Truffle",
-            "Metamask"
-          ]
-        },
-        {
-          "title": "R PROYECT 1",
-          "projectUrl": [
-            "https://github.com/pieropr2k/proyectR-U-1"
-          ],
-          "isDeployed": false,
-          "tools": [
-            "R"
-          ]
-        }
-      ],
-      [
-        {
-          "title": "CEPRE UNI NOTES SIMULATOR",
-          "projectUrl": [
-            "https://github.com/pieropr2k/proyectPOOJava"
-          ],
-          "isDeployed": false,
-          "tools": [
-            "Java"
-          ]
-        }
-      ],
-      [
-        {
-          "title": "MOVIE CART APP",
-          "projectUrl": [
-            "https://github.com/pieropr2k/movie-cart-app",
-            "https://movie-cart-app.herokuapp.com/"
-          ],
-          "isDeployed": true,
-          "tools": [
-            "HTML",
-            "CSS",
-            "Javascript"
-          ]
-        }
-      ]
-    ]
+    "projectsLevelsDescription": ["I consider a project basic generally when they are simple static pages or projects that use slow logic.", "I consider a project intermediate when it starts using more robust logic or using backend or logins.", "I consider a project advanced when it takes more than a week, it can include testing, starts using complex algorithms, and is very functional."]
   },
   "skills": {
     "title": "Skills",
-    "description": "I'm currenly improving my portfolio and my programming skills. I'm interested to work as Data Scientist for the future and currently I'm learning about Machine Learning. These are some skills that I have:",
-    "front": "I was working 2 years with these technologies. I'm able to do beautiful and functional responsive web-apps.",
-    "back": "I was working with these along less than 1 year. I'm good at the SQL queries.",
-    "extra": "There are some technologies I've been working with, these are for the Blockchain and Machile Learning areas, and also C++ which was my 1st programming language."
+    "description": "I'm currenly improving my portfolio and my programming skills. I'm interested in working as Data Scientist for the future and currently I'm learning about Machine Learning. These are some skills that I have:",
+    "front": "I've been working with these technologies for the past 2 years. I'm able to do beautiful and functional responsive web-apps.",
+    "back": "I've been working with these technologies for around 1 year. I'm good at the SQL queries.",
+    "extra": "There are some technologies I've been working with, these are for Blockchain and Machine Learning areas, and also C++ which was my 1st programming language."
   },
   "contact": {
     "title": "Contact",

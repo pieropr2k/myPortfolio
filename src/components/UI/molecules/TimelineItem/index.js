@@ -10,7 +10,7 @@ const TimelineItem = ({ experienceYear, experienceTitle, experienceDescription }
         <ul className="about-me-list text-left text-sm xsm:text-base text-gray-200 my-4">
           {
             experienceDescription
-              ? experienceDescription.map((el, index) => <li key={index} className={'my-3 md:my-0'}>{el}</li>)
+              ? experienceDescription.map((el, index) => <li key={index} className={'text-sm my-1 md:text-base md:my-0'}>{el}</li>)
               : ''
           }
         </ul>

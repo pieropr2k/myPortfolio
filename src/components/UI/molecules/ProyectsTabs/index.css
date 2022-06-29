@@ -1,5 +1,5 @@
 .tabs-container {
-  display: flex;
+  /*display: flex;*/
   flex-direction: column;
   position: relative;
   word-break: break-all;
@@ -64,9 +64,9 @@ button {
 .active-content {
   display: block;
 }
-
+/*
 @media(max-width: 355px){
   .xsm-phone{
     display: none;
   }
-}
+}*/

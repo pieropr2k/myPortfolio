@@ -25,7 +25,7 @@ const Navbar = () => {
     <div className='shadow-md w-full fixed top-0 left-0 z-20'>
       <div className='flex items-center justify-between bg-white py-4 nr:py-3 nr:px-10 px-7 dark:bg-gray-800 transition-all duration-250 ease-in'>
         <div className='text-2xl cursor-pointer flex items-center text-gray-800 dark:text-white'>
-          pieropr2k
+          <a href='https://github.com/pieropr2k'>pieropr2k</a>
           <ThemeButton/>
         </div>
         <button onClick={() => setOpen(!open)} data-collapse-toggle="mobile-menu-4" type="button" className="inline-flex items-center p-2 text-sm text-gray-500 rounded-lg nr:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="mobile-menu-4" aria-expanded="false">
