@@ -1,6 +1,6 @@
 {
   "navbar": {
-    "language": "Español",
+    "language": "Spanish",
     "about": "Info",
     "service": "Servicio",
     "exp": "Experiencia",
@@ -117,7 +117,7 @@
   },
   "contact": {
     "title": "Contacto",
-    "description": "Hoy en día estoy abierto a todos ustedes. Si necesita un servicio freelance también estoy disponible, mi bandeja de entrada está abierta y puedo responder rápidamente. Solo haz clic en el botón de abajo para contactarme:",
+    "description": "Hoy en día estoy abierto a todos ustedes. Si necesita un servicio freelance también estoy disponible, mi bandeja de entrada está abierta y puedo responder rápidamente. Solo haz clic en el botón de abajo para contactarme.",
     "button": "Contáctame"
   },
   "footer": {
