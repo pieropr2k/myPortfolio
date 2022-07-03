@@ -70,7 +70,9 @@ const PortfolioContainer = () => {
       </PortfolioSectionDiv>
 
       <PortfolioSectionDiv sectionIndex={8} showTitle={false}>
-        <p className='flex justify-center'>{t('footer.title')}</p>
+        <p className='flex justify-center'>{t('footer.title')}
+          <img src='https://flagpedia.net/data/flags/w580/pe.png' width={30} className={'ml-2 final-flag'} alt='Peru'></img>
+        </p>
       </PortfolioSectionDiv>
     </>
   );

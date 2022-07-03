@@ -20,3 +20,8 @@
   background-size: cover;
   overflow: hidden;
 }
+
+.final-flag {
+  align-self: center;
+  height: 20px;
+}
