@@ -5,7 +5,8 @@
     "service": "Service",
     "exp": "Experience",
     "projects": "Projects",
-    "skills": "Skills"
+    "skills": "Skills",
+    "contact": "Contact"
   },
   "header": {
     "habla": "hello"
@@ -13,7 +14,7 @@
   "intro": {
     "myname": "Hi, my name is:",
     "subtitle": "I build things for the web.",
-    "description": "I’m a software engineer based in Lima, Peru from the Universidad Nacional de Ingenieria - Lima who knows a lot about math and is able to contact with english speakers.",
+    "description": "I’m a Computer Science student from the Universidad Nacional de Ingenieria based in Lima, Peru who knows a lot about math and is able to contact with english speakers.",
     "button": "Get in touch"
   },
   "about": {
@@ -39,7 +40,7 @@
       },
       {
         "title": "English",
-        "description": "If you're from a english speaking country, no problem. I'm able to have conversations native english speakers."
+        "description": "If you're from a english speaking country, no problem. I'm able to have conversations with native english speakers."
       },
       {
         "title": "Design",
@@ -122,5 +123,6 @@
   },
   "footer": {
     "title": "Greetings from Perú"
-  }
+  },
+  "mailto": "mailto:piero.pilco.js@gmail.com?subject=Hi%20Piero%2C%20I%20wanna%20work%20with%20you!"
 }

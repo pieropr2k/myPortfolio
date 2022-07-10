@@ -1,5 +1,6 @@
 import React from 'react'
 import { useTypewriter, Cursor } from 'react-simple-typewriter'
+import './index.css';
 
 const TypewriterDiv = ({textDiv, classDiv}) => {
 
@@ -10,7 +11,7 @@ const TypewriterDiv = ({textDiv, classDiv}) => {
   })
 
   return (
-    <h2 className={classDiv}>
+    <h2 className={'typewriter '+ classDiv}>
       <span>{text}</span>
       <Cursor/>
     </h2>

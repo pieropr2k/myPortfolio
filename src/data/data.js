@@ -34,7 +34,7 @@ const data = {
           "https://github.com/pieropr2k/fullstackopen-part3",
           "https://boiling-meadow-40148.herokuapp.com/"
         ],
-        "imgUrl": "https://i.imgur.com/sLulJwr.jpg",
+        "imgUrl": "https://i.imgur.com/gFukQMl.jpg",
         "isDeployed": true,
         "tools": [
           "React JS",
@@ -42,9 +42,7 @@ const data = {
           "Express",
           "Mongoose"        
         ]
-      }
-    ],
-    [
+      },
       {
         "title": "MOVIE CART APP",
         "projectUrl": [
@@ -58,7 +56,9 @@ const data = {
           "CSS",
           "Javascript"
         ]
-      },
+      }
+    ],
+    [
       {
         "title": "CEPRE UNI NOTES SIMULATOR",
         "projectUrl": [
@@ -68,6 +68,19 @@ const data = {
         "isDeployed": false,
         "tools": [
           "Java"
+        ]
+      },
+      {
+        "title": "TESTING - BLOG API",
+        "projectUrl": [
+          "https://github.com/pieropr2k/fullstackopen-part4"
+        ],
+        "imgUrl": "https://i.imgur.com/G4rLAAW.jpg",
+        "isDeployed": false,
+        "tools": [
+          "NodeJS",
+          "Jest",
+          "React"
         ]
       }
     ]

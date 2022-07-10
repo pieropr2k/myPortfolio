@@ -5,9 +5,11 @@ import './index.css';
 
 const CVIntro = () => {
   const [t] = useTranslation('global');
+  //section-1 mx-8 md:mx-28 mt-28 xsm:mt-36 mb-28 <-- actual
+  //mx-8 my-14 md:ml-28 md:mr-12 xl:mr-28
   return (
     <>
-      <div className="section-1 mx-8 md:mx-28 mt-28 xsm:mt-36 mb-28" id="home">
+      <section className="section-1 mx-8 md:ml-28 md:mr-12 mt-28 xsm:mt-36 mb-28" id="home">
         <p className='intro-p text-sky-500'>{t('intro.myname')}</p>
         <h1 className='text-green-400 mb-2 text-5xl sm:text-7xl'>PIERO PILCO</h1>
         <TypewriterDiv textDiv={t('intro.subtitle')} classDiv={'dark:text-gray-300 text-3xl sm:text-6xl'}/>
@@ -15,8 +17,8 @@ const CVIntro = () => {
           {t('intro.description')}
         </p>
         <br></br>
-        <PortfolioButton title={t('intro.button')}/>
-      </div>
+        <PortfolioButton title={t('intro.button')} url={t('mailto')}/>
+      </section>
     </>
   );
 }

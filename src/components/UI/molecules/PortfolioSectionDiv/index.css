@@ -1,3 +1,7 @@
-div[class^="section-"] {
+/*div[class^="section-"] {
+  scroll-margin-top: 50px;
+}*/
+
+section[class^="section-"] {
   scroll-margin-top: 90px;
 }

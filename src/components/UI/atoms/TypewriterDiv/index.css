@@ -1,0 +1,19 @@
+@media (max-width: 441px){
+	.typewriter {
+    height: 70px;
+  }
+}
+
+@media (min-width: 640px) and (max-width: 801px){
+	.typewriter {
+    height: 130px;
+    line-height: 4rem;
+  }
+}
+
+@media (min-width: 868px) and (max-width: 897px){
+	.typewriter {
+    height: 130px;
+    line-height: 4rem;
+  }
+}

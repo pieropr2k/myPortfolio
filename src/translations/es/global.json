@@ -5,7 +5,8 @@
     "service": "Servicio",
     "exp": "Experiencia",
     "projects": "Proyectos",
-    "skills": "Habilidades"
+    "skills": "Habilidades",
+    "contact": "Contacto"
   },
   "header": {
     "habla": "hello"
@@ -13,7 +14,7 @@
   "intro": {
     "myname": "Hola, mi nombre es:",
     "subtitle": "Creo cosas geniales en la web.",
-    "description": "Soy un ingeniero de software que reside en Lima, Peru de la Universidad Nacional de Ingenieria - Lima que sabe demasiado sobre matemática y es capaz de contactarse con personas de habla inglesa.",
+    "description": "Soy un estudiante de Ciencia de la Computación que reside en Lima, Peru de la Universidad Nacional de Ingenieria que sabe demasiado sobre matemática y es capaz de contactarse con personas de habla inglesa.",
     "button": "Ponte en contacto"
   },
   "about": {
@@ -122,5 +123,6 @@
   },
   "footer": {
     "title": "Saludos desde Perú"
-  }
+  },
+  "mailto": "mailto:piero.pilco.js@gmail.com?subject=Hola%20Piero%2C%20quiero%20trabajar%20contigo!"
 }

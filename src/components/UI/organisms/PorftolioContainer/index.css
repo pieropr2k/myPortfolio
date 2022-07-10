@@ -25,3 +25,20 @@
   align-self: center;
   height: 20px;
 }
+
+.logo_footer{
+  background-image: url('../../../../../public/logocv.png');
+  width: 12rem;
+  height: 12rem;
+  border-radius: 50%;
+  background-size: cover;
+  overflow: hidden;
+}
+
+.border__footer .my_github {
+  text-decoration: underline;
+}
+
+.border__footer .my_github:hover {
+  color: rgb(49 196 141);
+}
