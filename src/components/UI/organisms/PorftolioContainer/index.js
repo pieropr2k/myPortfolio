@@ -74,7 +74,7 @@ const PortfolioContainer = () => {
       </main>
       <footer className='flex flex-col bg-blue-900 dark:bg-gray-800 px-8 py-6 border__footer md:pl-28 md:pr-12 xl:pr-28 text-white'>
         <code className='flex justify-center mb-3'>{t('footer.title')}
-          <img src='https://flagpedia.net/data/flags/w580/pe.png' width={30} className={'ml-2 final-flag'} alt='Peru'></img>
+          <img src='https://flagpedia.net/data/flags/w580/pe.png' width={35} className={'ml-2 final-flag'} alt='Peru'></img>
         </code>
         <div className='self-center logo_footer'></div>
         <code className='flex justify-center pt-4 pb-2'>Made with love by&nbsp;<a href='https://github.com/pieropr2k' className='my_github'>me</a></code>

@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import LanguageButton from '../LanguageButton';
 import ThemeButton from '../ToggleButton/ToggleButton';
 import SocialMediaLogo from '../UI/atoms/SocialMediaLogo';
-import { useTranslation } from 'react-i18next'
+import { useTranslation } from 'react-i18next';
 
 const Navbar = () => {
   const [t] = useTranslation('global');
@@ -44,7 +44,6 @@ const Navbar = () => {
               </li>
             ))
           }
-          
           <LanguageButton/>
           {
             SocialMedia.map((link) => (
